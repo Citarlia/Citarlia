@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Citarlia/Citarlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Citarlia 👋
+
+I'm **Citarlia Stella**, an independent developer and a senior high school student in China.
+
+The name **Citarlia** comes from the Latin *caecus*, meaning “blind.”
+
+## Tech Stack
+- C++
+- OpenGL
+- Python
+
+## Contact
+You can reach me via:
+
+- **Email:** mywordAY@163.com
+- **Discord:** citarlia_stella
